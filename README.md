@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jovan
 
-<!--
-**JHN30/JHN30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer focused on building data-driven web applications with the MERN stack.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- **JMP Euroleague** - a web app for predicting Euroleague basketball games using a custom rating system, with additional insights like standings, team stats, and playoff scenarios  
+- Building **JMP Rating**, the core rating model used within JMP Euroleague to evaluate team strength based on efficiency, form, and depth  
+
+---
+
+## Tech Stack
+
+React, Node.js, Express, MongoDB, MSSQL, Python
+
+---
+
+## Links
+
+- Project: https://www.jmpeuroleague.com/
+
+---
