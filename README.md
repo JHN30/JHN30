@@ -9,7 +9,7 @@ I'm a full-stack developer focused on building data-driven web applications with
 
 ## Tech Stack
 
-React, Node.js, Express, MongoDB, MSSQL, Python
+React, Node.js, Express, Javascript, Typescript, MongoDB, MSSQL, Python
 
 ## Links
 
